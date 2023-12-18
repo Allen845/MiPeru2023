@@ -1,0 +1,27 @@
+header {
+    background:url(../imgs/banner.jpg);
+    background-size:cover;
+    background-position:center; 
+    background-repeat:no-repeat;
+}
+.overlay {
+    background:rgba(45,52,54,0.5);
+
+}
+.parallax{
+    background: url(../imgs/Sac2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.mv {
+    color: red;
+} 
+#mision {
+    box-shadow: 0 8px 17px 2px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12), 0 5px 5px -3px rgba(0,0,0,.2);
+    width: 600px;
+    border-radius: 7px;
+    width: 400px;
+    margin: 20px;
+}
